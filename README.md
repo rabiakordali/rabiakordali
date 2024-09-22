@@ -1,4 +1,4 @@
-<h3 align="center">🌟Software Developer🌟</h3>
+<h3 align="left">🌟Software Developer🌟</h3>
 
 - 📫 How to reach me **rabiakordali@hotmail.com**
 
